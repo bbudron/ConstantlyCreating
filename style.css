@@ -106,12 +106,13 @@ body {
   width: calc(250px * 14);
 }
 
-.slide {
+h1 .slide {
   color: white;
   text-shadow: 0px 0px 10px rgba(255, 255, 255, .25);
-
   font-family: sans-serif;
-  
+}
+
+.slide {
   min-height: 80px;
   height: 80px;
   max-height: 80px;
